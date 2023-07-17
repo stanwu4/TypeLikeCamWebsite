@@ -1,0 +1,33 @@
+
+.centered-container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    padding: 40px;
+	border-radius: 10px;
+}
+.text-copy-input {
+    width: 400px;
+    height: 200px;
+    padding: 5px;
+  }
+  
+.text-copy-button {
+    width: '120px';
+    height: '100px';
+  }
+  
+.text-copy-textarea {
+    width: 400px;
+    height: 200px;
+    resize: none;
+    vertical-align: top;
+    text-align: left;
+    padding: 5px;
+  }
+
+.text-space{
+    width: 25px;
+}
+  
