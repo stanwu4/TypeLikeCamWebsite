@@ -1,0 +1,14 @@
+
+
+.default-body{
+  background-color: #282c34;
+
+}
+
+.p{
+  background-color: #282c34;
+  display: flex;
+  justify-content:center;
+  color: white;
+}
+
